@@ -35,6 +35,4 @@ http://127.0.0.1:8000/
 
 ## Авторы
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Николай Букреев** - - [Minzhy1](https://github.com/Minzhy1)
